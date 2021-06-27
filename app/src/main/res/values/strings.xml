@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitSearch</string>
+    <string name="search_hint">Search github repositories</string>
+    <string name="title">Github Search</string>
+    <string name="unknown_error_msg">Unexpected error occurred. Try again later</string>
+    <string name="offline">Offline</string>
+    <string name="network_unavailable">Your network is unavailable. Check your data or wifi connection</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error</string>
+    <string name="no_result">No results</string>
+    <string name="try_other_key">Try adjusting your search</string>
+    <string name="search_result_message_format">Search results for \'{query}\'</string>
+</resources>
